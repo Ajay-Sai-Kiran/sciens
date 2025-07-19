@@ -20,7 +20,7 @@ HEADERS = {"Authorization": f"Bearer {API_KEY}", "Content-Type": "application/js
 LOG_FILE = "call_logs.json"
 
 # Groq Client
-groq_client = Groq(api_key=GROQ_API_KEY)
+groq_client = Groq(api_key="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")
 
 # QA Questions
 qa_questions = [
